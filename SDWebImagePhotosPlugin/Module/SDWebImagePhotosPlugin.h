@@ -14,6 +14,7 @@
 
 #import <SDWebImagePhotosPlugin/NSURL+SDWebImagePhotosPlugin.h>
 #import <SDWebImagePhotosPlugin/PHImageRequestOptions+SDWebImagePhotosPlugin.h>
+#import <SDWebImagePhotosPlugin/PHAsset+SDWebImagePhotosPlugin.h>
 #import <SDWebImagePhotosPlugin/SDWebImagePhotosDefine.h>
 #import <SDWebImagePhotosPlugin/SDWebImagePhotosError.h>
 #import <SDWebImagePhotosPlugin/SDImagePhotosLoader.h>
